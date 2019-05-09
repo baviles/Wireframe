@@ -22,6 +22,10 @@ body {
     text-align: center;
 }
 
+#section-1 {
+    padding: 15px;
+}
+
 #aside {
     background: #ebebeb;
     height: 300px;
@@ -34,6 +38,9 @@ body {
     text-align: center;
 
 }
+
+
+
 
 #article {
     color: #ebebeb;
